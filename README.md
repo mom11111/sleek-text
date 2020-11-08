@@ -1,5 +1,23 @@
-hosted on firebase:
+#hosted on firebase:
 url: sleektext-b77eb.web.app
+
+#steps to run this project:
+
+step1: first of all download nodejs on your system. go to the official website of Nodejs and download the latest version from it. and after downloading install it in
+the sytem.and type node -v in cmd to check the version of installed node.
+
+step2: you must have a code editor. so go to the official website of visual studio code and download it from there. after downloading install it in your system.
+
+step3: Now come to github and download this project on clicking the download button.
+
+step4: open this project in visual studio code. after that open the client folder into the terminal of the code editor.
+
+step5: now run a command in the terminal.  npm i
+
+step6: npm i command will install all the dependencies which is required to run the app.
+
+step7: run npm start command in the terminal it will run the app on localhost:3000
+
 
 
 # Getting Started with Create React App
