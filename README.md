@@ -20,6 +20,20 @@ step7: run npm start command in the terminal it will run the app on localhost:30
 
 
 
+#Knowledge required:
+1.HTML
+2.CSS
+3.Javascript
+4.ReactJs
+5.server calls
+
+the project is made by using ReactJs. in which i am using some of the basic to advance concept of Reactjs.
+to understand the code first of all you should learn about the structure of the reactjs projects. how functional components works in reactJs? what are hooks in reactJs. 
+
+You must have a good understanding of useEffect and useState hook.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
