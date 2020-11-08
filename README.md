@@ -28,9 +28,11 @@ step7: run npm start command in the terminal it will run the app on localhost:30
 5.server calls
 
 the project is made by using ReactJs. in which i am using some of the basic to advance concept of Reactjs.
-to understand the code first of all you should learn about the structure of the reactjs projects. how functional components works in reactJs? what are hooks in reactJs. 
+to understand the code first of all you should learn about the structure of the reactjs projects. how functional components works in reactJs? what are hooks in reactJs. how rendering works in reactJs. how state updation works in functional components.
 
-You must have a good understanding of useEffect and useState hook.
+Note: You must have a good understanding of useEffect and useState hook.
+
+Note: For making http calls i am using 'axios' library, which is really cool to make server calls.
 
 
 
