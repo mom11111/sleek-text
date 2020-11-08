@@ -1,3 +1,14 @@
+#Project Intro:
+1.basically we are fetching some data from a some server and showing it on the screen.
+
+2.after that we are filtering them by first name and last name.
+
+3.there is toggle option to hide and show the information about the users.
+
+
+
+
+
 #hosted on firebase:
 url: sleektext-b77eb.web.app
 
