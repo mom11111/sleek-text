@@ -1,15 +1,25 @@
 .App {
   text-align: center;
+  background-color: #bab9b6;
+  position: relative;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.inputs{
+  background-color:white;
+  margin-top:20px;
+  text-align: center;
+}
+.inputField{
+  width:50%;
+  height:40px;
+  border:none;
+  border-bottom:1px solid black;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+@media screen and (max-width: 600px) {
+  .app {
+    font-size: 30px;
+    width:100%;
   }
 }
 
@@ -28,11 +38,4 @@
   color: #61dafb;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
-}
+
